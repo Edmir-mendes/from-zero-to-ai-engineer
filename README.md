@@ -11,6 +11,13 @@ My goal is to study consistently every single day to master Python, SQL, Softwar
 
 ---
 
+### 📖 Learning Log & Build-in-Public Daily Journal
+To ensure absolute transparency and document my growth from day zero, I am keeping a **live learning log** inside this repository. For every single topic outlined in this 24-month roadmap, you will find dedicated notes, hands-on exercises, and the real-world engineering challenges I solve daily. 
+
+*Feel free to explore the module folders above to track my continuous development, code evolution, and problem-solving approach in real-time!*
+
+---
+
 ## 📅 The 24-Month Detailed Schedule
 
 ### 💻 MODULE 0: COMPUTER SCIENCE FUNDAMENTALS & ENVIRONMENT (Weeks 1–4)
