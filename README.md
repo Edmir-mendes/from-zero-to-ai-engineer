@@ -5,7 +5,7 @@ Hello! My name is Edmir. **I am an absolute beginner in programming, and this is
 
 My goal is to study consistently every single day to master Python, SQL, Software Engineering, and Artificial Intelligence, transforming myself from a complete novice into a professional **AI Engineer / Machine Learning Engineer**.
 
-*   **Official Start Date:** June 27, 2026 📅
+*   **Official Start Date:** June 30, 2026 📅
 *   **Target Duration:** 24 Months (2 Years) ⏳
 *   **Daily Commitment:** Coding and learning every single day following this strict, professional roadmap.
 
