@@ -21,7 +21,7 @@ To ensure absolute transparency and document my growth from day zero, I am keepi
 ## 📅 The 24-Month Detailed Schedule
 
 ### 💻 MODULE 0: COMPUTER SCIENCE FUNDAMENTALS & ENVIRONMENT (Weeks 1–4)
-*   **0.1 Hardware Basics:** CPU, RAM, SSD/HDD, GPU, Processes, and Threads. ✅ Completed
+*   **0.1 Hardware Basics:** CPU, RAM, SSD/HDD, GPU, Processes, and Threads.✅ Completed [View Logs](./module-00-fundamentals/subtopic-0.1-hardware/)
 *   **0.2 Operating Systems:** Windows and Linux environment architecture.
 *   **0.3 Terminal & Bash:** CLI navigation, file manipulation, permissions, and environment variables.
 *   **0.4 Networking & Internet:** IP, DNS, HTTP/HTTPS protocols, APIs, and JSON data structures.
